@@ -1,4 +1,4 @@
-package id.ten.belajar.basic_spark;
+package id.ten.belajar.basic_spark.project1;
 
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;

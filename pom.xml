@@ -104,7 +104,7 @@
                         <configuration>
 
 <!--                            <mainClass>com.jobreadyprogrammer.spark.Application</mainClass>-->
-                            <mainClass>id.ten.belajar.basic_spark.Application</mainClass>
+                            <mainClass>id.ten.belajar.basic_spark.project1.Application</mainClass>
 
                         </configuration>
                     </execution>
